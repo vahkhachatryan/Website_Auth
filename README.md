@@ -135,3 +135,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Feel free to customize this README file according to your specific project requirements.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3209098 (change file syteam)

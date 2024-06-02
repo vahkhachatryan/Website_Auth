@@ -1,0 +1,105 @@
+/*body,
+ table,
+    thead,
+    tr,
+    tbody,
+    th,
+    td {
+        text-align: center;
+    }*/
+body {
+  text-align: center !important;
+}
+p {
+  margin-top: 20px;
+  font-size: 30px;
+}
+input {
+  text-align: center;
+}
+.mssg {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+.container-div {
+  display: none;
+}
+
+.control-label {
+  text-align: left !important;
+  padding-bottom: 4px;
+}
+
+.progress {
+  background-color: rgb(215, 219, 223);
+  height: 3px !important;
+  margin: 5px;
+}
+
+.progress-bar {
+  height: 100%;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.show-pass {
+  position: relative;
+  right: 3%;
+}
+#pass-stren {
+  font-size: 20px;
+}
+.progress-bar-danger {
+  background-color: #e90f10;
+}
+
+.progress-bar-warning {
+  background-color: #ffad00;
+}
+
+.progress-bar-success {
+  background-color: #02b502;
+}
+
+.list-unstyled {
+  list-style-type: none;
+  text-align: left;
+}
+
+.fa-eye {
+  color: #022255;
+  cursor: pointer;
+  float: right;
+  position: relative;
+  bottom: 24px;
+}
+
+.fa-circle {
+  font-size: 6px;
+}
+
+.fa-check {
+  color: #02b502;
+}
+.fa-check:before {
+  content: '\f00c'; /* Unicode representation of the checkmark icon */
+}
+
+.button-success {
+  color: #fff;
+  background-color: #6f726f;
+  border-color: #626662;
+border-radius: 5px;
+  display: inline-block;
+  text-align: left;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+ 
+ 
+}
