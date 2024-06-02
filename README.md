@@ -40,8 +40,8 @@ This project is designed to provide a comprehensive example of a full-stack appl
 
 Ensure you have the following installed on your local machine:
 
-- Node.js (v14.x or later)
-- npm (v6.x or later)
+- Node.js (v20.11.0)
+- npm (9.9.3)
 - MongoDB (local or MongoDB Atlas)
 
 ### Installation
@@ -49,8 +49,8 @@ Ensure you have the following installed on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+    https://github.com/vahkhachatryan/Website_Auth.git
+    cd your-repo-name
    ```
 
 2. **Backend Setup:**
